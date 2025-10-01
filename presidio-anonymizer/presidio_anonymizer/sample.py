@@ -15,7 +15,7 @@ def sample_run_anonymizer(text: str, start: int, end: int):
     )
 
     print(result)
-    return(result)
+    return result
 
 
 if __name__ == "__main__": 
